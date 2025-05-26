@@ -41,4 +41,5 @@ struct Skill {
 }
 '''
 
-Contract detail: 0x93d25adbb53e0bce26de2c394a1146b3086968f877855954889a513da94e5f5b![WhatsApp Image 2025-05-26 at 15 44 48_f8dc44a9](https://github.com/user-attachments/assets/73c95494-fc03-4f87-8288-5d65bad760f3)
+Contract detail: 0x93d25adbb53e0bce26de2c394a1146b3086968f877855954889a513da94e5f5b![WhatsApp
+ Image 2025-05-26 at 15 44 48_f8dc44a9](https://github.com/user-attachments/assets/73c95494-fc03-4f87-8288-5d65bad760f3)
